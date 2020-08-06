@@ -93,3 +93,7 @@ php one.php upload:file demo.zip /test/d.zip
 //上传up/ 到OneDrive /test/ 目录  
 php one.php upload:file up/ /test/
 ```
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/ikym/Oneindex.svg)](https://starchart.cc/ikym/Oneindex)
